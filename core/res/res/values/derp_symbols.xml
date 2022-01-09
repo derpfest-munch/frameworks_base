@@ -297,4 +297,8 @@
   <java-symbol type="string" name="config_batterymeterLandBoltPathMiUIPill" />
   <java-symbol type="string" name="config_batterymeterLandPowersavePathMiUIPill" />
   <java-symbol type="string" name="config_batterymeterLandErrorPerimeterPathMiUIPill" />
+
+  <!-- Whether to force enable multi resolution configuration for camera -->
+  <java-symbol type="bool" name="config_forceMultiResolution" />
+
 </resources>
