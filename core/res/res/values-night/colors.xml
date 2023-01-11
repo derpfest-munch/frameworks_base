@@ -48,4 +48,7 @@
     <color name="seekbar_progress_thumb">#FF000000</color>
 
     <color name="notification_translucent_bg">#BF2E3133</color>
+
+    <color name="xd_background1">@android:color/system_neutral1_900</color>
+    <color name="xd_background2">@android:color/system_neutral1_800</color>
 </resources>
