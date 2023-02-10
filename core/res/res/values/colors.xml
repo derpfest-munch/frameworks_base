@@ -482,4 +482,8 @@
     <color name="side_fps_button_color">#00677E</color>
 
     <color name="notification_translucent_bg">#BFFFFFFF</color>
+
+    <!-- Seekbar progress -->
+    <color name="seekbar_progress_thumb">@android:color/system_accent1_100</color>
+
 </resources>
